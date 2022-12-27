@@ -58,3 +58,9 @@ Run docker container on background.
 ```bash
 docker-compose -f docker-compose-mysql.yml up -d
 ```
+
+Stop container.
+
+```bash
+docker-compose down
+```
