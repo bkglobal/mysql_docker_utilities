@@ -2,6 +2,9 @@
 
 Using MySQL with Docker and docker-compose makes it very easy and fast to test out any changes in any application using MySQL as the database. In this tutorial, we will detail how to use MySQL with Docker and docker-compose step-by-step keeping things easy to comprehend. Let’s get started!
 
+You can see mysql `dump` and `backup` commands from docker container here.
+[https://github.com/bkglobal/mysql_docker_utilities/blob/main/mysql-commands.sh](https://github.com/bkglobal/mysql_docker_utilities/blob/main/mysql-commands.sh)
+
 ## Installation
 
 Install my-project with npm
